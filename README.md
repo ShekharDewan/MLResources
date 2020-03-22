@@ -4,6 +4,7 @@ This society is dedicated to providing educational content about artificial inte
 We welcome any suggestions about how to improve any of our content. And please feel free to fork and play around with anything that captures your interest. We hope this aids your journey into a fascinating and revolutionary field. 
 
 ## Getting Started with Machine Learning:
+https://github.com/madewithml/lessons
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 https://github.com/ageron/handson-ml
 https://github.com/jbhuang0604/awesome-computer-vision
